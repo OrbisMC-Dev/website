@@ -19,7 +19,7 @@ You can preview your changes by running the following commands (requires npm & N
 
 ```
 npm i
-npm start
+npm run start
 ```
 
 This will start a local development server and open up a browser window. Most changes you make will be updated live without restarting the server.
