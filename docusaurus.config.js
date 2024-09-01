@@ -9,8 +9,8 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
   title: 'OrbisMC',
   tagline: 'Geopolitical Sandbox done right',
-  url: 'https://orbismc-dev.github.io',
-  baseUrl: '/docs/',
+  url: 'https://www.orbismc.com/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -25,7 +25,7 @@ const config = {
       src: 'https://plausible.io/js/plausible.js',
       async: false,
       defer: true,
-      'data-domain': 'https://orbismc-dev.github.io/docs/',
+      'data-domain': 'https://www.orbismc.com/',
     },
   ],
 
@@ -80,7 +80,7 @@ const config = {
 
   themeConfig: {
     navbar: {
-      title: 'OrbisMC docs',
+      title: 'OrbisMC Docs',
       // logo: {
       //   alt: 'orbismc Logo',
       //   src: 'img/logo.svg',
@@ -102,7 +102,7 @@ const config = {
             },
             {
               label: 'Wiki',
-              href: 'https://wiki.orbismc.com/',
+              href: 'https://wwww.orbismc.com/',
             },
           ],
         },
@@ -111,7 +111,7 @@ const config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/orbismc-dev/',
+              href: 'https://github.com/orbismc-dev/docs',
             },
           ],
         },
