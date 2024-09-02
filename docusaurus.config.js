@@ -7,10 +7,10 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'OrbisMC',
+  title: 'OrbisMC Documentation',
   tagline: 'Geopolitical Sandbox done right',
   url: 'https://www.orbismc.com/',
-  baseUrl: '/',
+  baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -25,7 +25,7 @@ const config = {
       src: 'https://plausible.io/js/plausible.js',
       async: false,
       defer: true,
-      'data-domain': 'https://www.orbismc.com/',
+      'data-domain': 'https://www.orbismc.com/docs/',
     },
   ],
 
