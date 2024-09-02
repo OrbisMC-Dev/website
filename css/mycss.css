@@ -1,0 +1,26 @@
+body {
+    background-image: url('/images/map.png'); 
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(10px); 
+    margin: 0; 
+    padding: 15px; 
+    min-height: 100vh; 
+    display: flex;
+    flex-direction: column;
+}
+
+.bg-overlay {
+    background-color: rgba(0, 0, 0, 0.10);
+}
+
+
+footer {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.301); 
+    color: white;
+    border-radius: 15px;
+
+    padding: 10px 0;
+}
