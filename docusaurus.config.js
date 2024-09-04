@@ -79,6 +79,10 @@ const config = {
   ],
 
   themeConfig: {
+    colorMode: {
+      defaultMode: 'light',
+      respectPrefersColorScheme: true
+    },
     navbar: {
       title: 'OrbisMC Docs',
       // logo: {
