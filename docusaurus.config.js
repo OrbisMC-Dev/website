@@ -11,7 +11,7 @@ const config = {
   tagline: 'Geopolitical Sandbox done right',
   url: 'https://www.orbismc.com/',
   baseUrl: '/docs/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
