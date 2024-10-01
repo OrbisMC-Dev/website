@@ -1,0 +1,21 @@
+# Getting started
+Welcome to the getting started page for Orbis, This page contains the basics for joining the server and what to do.
+## First Joining
+ When you first join you will spawn in western turkey. Now most people go for one of two play styles when playing orbis. This will go over both. 
+ ## Joining a town
+  Many players choose to join a town when playing Orbis. You can do this via /t join [town] or you can ask the mayor of the town for an invite. Upon joining a town the mayor can give you a plot via /plot forsale and you can claim it via /plot claim. A plot is a 16x16 block (one chunk) area that belongs to you. You can build and interact with blocks in there (the mayor of the town and anybody that the mayor trusts can also build and interact with blocks within your plot). Once you have your plot you can begin building. here are some ideas for things to build: bunkers, farms, or house. Keep in mind that you can claim multiple plots for a larger building space.
+ ## Creating a town
+ Instead of joining a town when you start, you may create your own town. 
+
+Creating a town costs 64 gold and can be done via `/t new [town name]`.
+
+> You can get gold by voting daily via `/vote`
+
+ When you first create your town, it will only be one chunk in area (16x16 blocks). You can expand your town via `/t claim` while standing in an adjacent chunk. doing this will cost 8 gold.
+> You must have 8 gold in your town bank which can be done via /t deposit [amount] while in your home chunk
+
+That chunk will now be a part of your town. Claiming a chunk will also use one town block. You can gain more town blocks by either joining a nation which will give a bonus based on the resident count of the nation, getting more residents in your town, which will give 16 town blocks per resident, or doing `/t bonus buy 1`.
+
+> You can only buy 5 bonuses starting out, and each will cost 16 gold. The more residents you have, the more bonuses will be available. You still have to claim these with the `/t claim` command after buying.
+
+Keep in mind that each chunk you claim also needs 3 adjacent chunks to be claimed. You can also turn your town into a nation using `/n new [nation name]`. This will cost 2,304g.
